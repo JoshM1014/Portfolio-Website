@@ -151,10 +151,7 @@ align-self: center;
   align-items: center;
   margin: 0 auto;
 }
-.h1__contact {
-  color: black;
-  margin-left: 98px;
-}
+
 .div__contactbox {
   border: solid 3px black;
   width: 300px;
