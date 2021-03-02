@@ -8,6 +8,7 @@
   --button-primary-color: rgb(136, 220, 248);
   --primary-font-size: 18px;
   --primary-font-weight: 400;
+  --navigation-link-active: rgb(255, 255, 219);
   /* H2U "color: var(--primary);" */
 }
 * {
@@ -54,7 +55,7 @@ a:active {
   text-decoration: none;
 }
 .navigation-list__item--active {
-  color: white;
+  color: var(--navigation-link-active);
 }
 button:hover,
 button:focus,
