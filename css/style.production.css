@@ -62,7 +62,7 @@ button {
   border: none;
   /* inherit takes parent font */
   font-family: inherit;
-  background-color: rgb(102, 189, 218);
+  background-color: rgb(136, 220, 248);
   color: black;
   /* underlines */
   text-decoration: none;
@@ -81,7 +81,7 @@ button {
   border: none;
   /* inherit takes parent font */
   font-family: inherit;
-  background-color: rgb(102, 189, 218);
+  background-color: rgb(136, 220, 248);
   color: black;
   /* underlines */
   text-decoration: none;
