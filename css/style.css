@@ -30,7 +30,8 @@ footer {
 }
 body {
   background-color: var(--secondary-background-color);
-  font-family: "Reggae One", cursive;
+  font-family: "Libre Baskerville", serif;
+  word-spacing: 4px;
   font-weight: var(--primary-font-weight);
   font-size: var(--primary-font-size);
   line-height: 25px;
