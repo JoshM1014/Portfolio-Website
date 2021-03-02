@@ -23,7 +23,8 @@ footer {
 }
 body {
   background-color: #40adf7;
-  font-family: "Hammersmith One", sans-serif;
+  font-family: "Libre Baskerville", serif;
+  word-spacing: 4px;
   font-weight: 400;
   font-size: 18px;
   line-height: 25px;
