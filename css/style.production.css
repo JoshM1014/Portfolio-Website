@@ -8,21 +8,21 @@
 }
 header {
   margin-bottom: 17px;
-  background-color: #ad1b53;
+  background-color: #1788d3;
   border-bottom: solid black 3px;
 }
 main {
-  background-color: #c5346c;
+  background-color: #40adf7;
   padding-left: 10px;
 }
 footer {
   margin-top: 180px;
-  background-color: #ad1b53;
+  background-color: #1788d3;
   padding-left: 10px;
   border-top: solid black 3px;
 }
 body {
-  background-color: #c5346c;
+  background-color: #40adf7;
   font-family: "Hammersmith One", sans-serif;
   font-weight: 400;
   font-size: 18px;
