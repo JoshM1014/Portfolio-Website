@@ -274,3 +274,6 @@ button,
 .cloud-back {
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
+#introbox {
+  padding-top: 25px;
+}

@@ -363,3 +363,6 @@ button {
   -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
+#introbox {
+  padding-top: 25px;
+}
