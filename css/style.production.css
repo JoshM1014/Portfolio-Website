@@ -200,9 +200,9 @@ button {
 
 .div__contactbox {
   border: solid 3px black;
-  width: 325px;
+  width: 335px;
   padding: 15px 0 15px 15px;
-  line-height: 25px;
+  line-height: 30px;
 }
 #contact-form {
   line-height: 35px;
@@ -217,8 +217,28 @@ button {
   margin-bottom: 25px;
 }
 .button__submit {
+  display: inline-block;
+  opacity: 1;
+  border: none;
+  /* inherit takes parent font */
+  font-family: inherit;
   background-color: lightgreen;
-  margin-bottom: 15px;
+  color: black;
+  /* underlines */
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 3px;
+  /* rgba 4th value is transparency */
+  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+  -webkit-transition-property: 0.2s opacity;
+  -o-transition-property: 0.2s opacity;
+  transition-property: 0.2s opacity;
+  /* transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay]; */
+  margin-top: 5px;
+}
+.button__submit:hover {
+  cursor: pointer;
+  opacity: 0.8;
 }
 .txt__commentbox {
   height: 45px;
