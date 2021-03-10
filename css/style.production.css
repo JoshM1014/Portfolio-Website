@@ -123,6 +123,7 @@ button {
   display: inline-block;
   margin: 0 0px 0 10px;
   padding: 0 10px 0 0;
+  text-decoration: none;
 }
 .page-footer {
   clear: both;
@@ -134,6 +135,9 @@ button {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
+}
+.navigation-list__item{
+  text-decoration: none;
 }
 .grid__item {
   display: inline-block;
