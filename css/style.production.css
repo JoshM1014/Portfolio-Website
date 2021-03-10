@@ -134,10 +134,6 @@ button {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
-  position: fixed;
-  left: 0%;
-  bottom: 0;
-  width: 100%;
 }
 .grid__item {
   display: inline-block;
